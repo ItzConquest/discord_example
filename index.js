@@ -45,4 +45,4 @@ client.on("guildMemberRemove", (member) => {
         Console.log(e);
         }
 });
-client.login("NjA1NDk2MDk3MTU4MjAxMzc0.XT9WMw.94cHOUBVcnmKy47LD_ZwPykt5Mo");
+client.login("NjA1NDkxNjIwMzA1MDQzNDY2.XT9SLg.gF2Ch6awtGwt-69rPcxmUVEStNM");
